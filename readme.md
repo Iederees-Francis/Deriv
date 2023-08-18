@@ -46,7 +46,7 @@ Once your Affiliate Partner application has been approved, you'll have the oppor
 
 To get started with building your affiliate site, follow these steps:
 
-1. **Access the Affiliate Site Code**: The code for your affiliate site is located in the `index.html` file within the `index.html` folder of [this GitHub repository](https://github.com/iederees-create/deriv).
+1. **Access the Affiliate Site Code**: The code for your affiliate site is located in the `index.html` file within the `index.html` folder of [this GitHub repository](https://github.com/Iederees-Francis/Deriv).
 
 2. **Customize Affiliate Links**: Open the `index.html` file and replace the existing affiliate links with your unique affiliate tracking links. These links are provided by our Affiliate Partner program and are associated with your account.
 
