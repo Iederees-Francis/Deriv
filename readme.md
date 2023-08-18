@@ -56,7 +56,7 @@ To get started with building your affiliate site, follow these steps:
 
 5. **Publish Your Site**: Once you're satisfied with your affiliate site, you can host it on your preferred web hosting service. You can also explore free hosting options if you're just getting started. you can use github pages like i do.
 
-If you encounter any difficulties while customizing the code or need assistance with building your affiliate site, don't hesitate to reach out for help. You can connect with me on [LinkedIn](https://www.linkedin.com/in/iederees-francis-973879228/) and I'll be more than happy to assist you.
+If you encounter any difficulties while customizing the code or need assistance with building your affiliate site, don't hesitate to reach out for help. You can connect with me on [LinkedIn](https://www.linkedin.com/in/iederees-franics-973879228/) and I'll be more than happy to assist you.
 
 Building and promoting your affiliate site is an exciting opportunity to maximize your earnings and expand your reach as an Affiliate Partner. Im here to support you every step of the way!
 
